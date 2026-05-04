@@ -1,0 +1,19 @@
+{
+    "project": {
+        "name": "TS-NOP-VMS",
+        "version": "1.0.0",
+        "author": "Techno Support Core Innovations"
+    },
+    "deployment": {
+        "ftp_host": "your-ftp-host.com",
+        "ftp_user": "your-username",
+        "ftp_pass": "your-password",
+        "remote_path": "/public_html"
+    },
+    "database": {
+        "host": "localhost",
+        "name": "your_database",
+        "user": "your_db_user",
+        "pass": "your_db_pass"
+    }
+}

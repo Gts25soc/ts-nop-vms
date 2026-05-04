@@ -1,0 +1,11 @@
+# Ignore sensitive config
+public_html/config/database.php
+
+# Ignore logs and temp files
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore large uploads if you don't want them in Git
+public_html/assets/uploads/*
+!public_html/assets/uploads/.gitkeep
